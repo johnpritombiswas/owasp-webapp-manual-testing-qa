@@ -13,20 +13,20 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 - `Test Cases/` – Functional, security, and usability test cases
 - `Test Case Report/` – Visual documentation of test case execution and scope justification
 - `Bug Reports/` – Documented bugs with severity, steps, and screenshots
-- `Test Metrics/` – Execution stats and coverage matrix
+- `Test Matrix/` – Execution stats and coverage matrix
 - `Mind Map/` – Visual flow of registration logic
 - `Screenshots/` – Supporting screenshots for documentation and validation
 - `Documentation/` – Combined suite for stakeholder review
 
 ## 🖼️ Visual Assets Summary
 
-| 📁 Folder           | 🖼️ Image Count | 📝 Description                          |
-|--------------------|----------------|-----------------------------------------|
+| 📁 Folder           | 🖼️ Image Count | 📝 Description                         |
+|---------------------|----------------|-----------------------------------------|
 | Test Plan           | 1              | QA strategy visual overview             |
 | Test Cases          | 1              | Sample test case matrix                 |
 | Test Case Report    | 2              | Test case report and scope justification|
 | Bug Reports         | 3              | Bug report visuals                      |
-| Test Metrics        | 1              | Execution metrics chart                 |
+| Test Matrix         | 1              | Execution matrix  chart                 |
 | Mind Map            | 1              | Registration flow mind map              |
 | Screenshots         | 4              | Supporting screenshots for documentation|
 
