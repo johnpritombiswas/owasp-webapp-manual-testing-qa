@@ -9,9 +9,6 @@
 - [`Test Case Report`](../Test%20Case%20Report/README.md)  
   Executed test cases with expected vs actual results, pass/fail status, and scope justifications.
 
-- [`Test Matrix`](../Test%20Matrix/README.md)  
-  Master Excel file mapping test cases to features/modules for coverage tracking and traceability.
-
 - [`Bug Reports`](../Bug%20Reports/README.md)  
   Structured bug documentation with severity, reproduction steps, screenshots, and QA comments.
 
@@ -23,4 +20,5 @@
 
 - [`Documentation`](../Documentation/README.md)  
   Full QA documentation suite including test plan, test case report, mind map, bug reports, screenshots, and consolidated test matrix.
+
 
