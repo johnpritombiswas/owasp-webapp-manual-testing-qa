@@ -1,3 +1,52 @@
-# Test Case Report
+# 📋 Test Case Report
 
-This folder includes a summarized report of executed test cases, highlighting pass/fail status, blocked cases, and critical findings. It complements the test matrix and supports traceability for QA audits.
+This folder contains detailed test cases and scope justifications for manual QA of the OWASP-based web application. It demonstrates structured planning, execution, and rationale behind the selected testing areas.
+
+---
+
+## 📌 Contents
+
+| File | Description |
+|------|-------------|
+| `Test Case Report.xlsx` | Spreadsheet of executed test cases with expected vs actual results, status, and QA comments. |
+| `Test Scope Justification.xlsx` | Explains why specific modules, flows, and edge cases were prioritized during testing. Includes risk analysis and OWASP relevance. |
+
+---
+🖼️ Test Case Report 
+
+![Test Case Report](test_case_report.png)
+
+
+
+🖼️ Test Scope Justifications
+
+![Test Scope Justicication](test_scope_justifications.png)
+
+---
+
+## 🧪 QA Coverage
+
+The test case report includes:
+
+- ✅ Unique Test IDs and titles  
+- 🧠 Preconditions and step-by-step execution  
+- 🎯 Expected vs actual results  
+- ❌ Pass/fail status with severity tags  
+- 📝 QA observations and notes  
+
+---
+
+## 🎯 Scope Justification Highlights
+
+- Focused on high-risk modules based on OWASP guidelines  
+- Prioritized user registration, login, and input validation flows  
+- Included edge-case scenarios and negative testing  
+- Justified exclusions based on time constraints, risk level, and feature stability
+
+---
+
+## 🔗 Related Artifacts
+
+- For coverage mapping, see [`Test Matrix`](../Test%20Matrix/README.md)  
+- For bug documentation, see [`Bug Reports`](../Bug%20Reports/README.md)  
+- For visual evidence, see [`Screenshots`](../Screenshots/README.md)
