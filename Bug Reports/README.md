@@ -40,11 +40,12 @@ This folder contains structured bug reports surfaced during manual testing of th
 - [`Screenshots`](../Screenshots/README.md)  
   Annotated visuals supporting bug reports and test case execution.
 
-- [`Test Report`](../Test%20Report/README.md)  
+- [`Test Report`](../Test%20Case%20Report/README.md)  
   Final report summarizing test execution results, defect trends, coverage metrics, and QA recommendations.
 
 - [`Documentation`](../Documentation/README.md)  
   Full QA documentation suite including test plan, test case report, mind map, bug reports, screenshots, and consolidated test matrix.
+
 
 
 
