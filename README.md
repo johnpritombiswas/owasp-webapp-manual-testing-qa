@@ -35,31 +35,31 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ## 🧠 Visual Highlights
 
 ### 📌 Testing Scope & Justification
-![Scope Justification](Testing Scope & Justifications.png)
+![Scope Justification](Test Case Report/Testing Scope & Justifications.png)
 
 ### 🧾 Test Case Report
-![Test Case Report](Testcasereport.png)
+![Test Case Report](Test Case Report/Testcasereport.png)
 
 ### 🧪 Sample Test Case Matrix
-![Test Case Matrix](TestCase.png)
+![Test Case Matrix](Test Cases/TestCase.png)
 
 ### 📋 Test Plan Overview
-![Test Plan](TestPlan.png)
+![Test Plan](Test Plan/TestPlan.png)
 
 ### 🐞 Bug Report 1
-![Bug Report 1](BugReport1.png)
+![Bug Report 1](Bug Reports/BugReport1.png)
 
 ### 🐞 Bug Report 2
-![Bug Report 2](BugReport2.png)
+![Bug Report 2](Bug Reports/BugReport2.png)
 
 ### 🐞 Bug Report 3
 ![Bug Report 3](BugReport3.png)
 
 ### 📈 Metrics Chart
-![Metrics Chart](Testmatrix.png)
+![Metrics Chart](Test Matrics/Testmatrix.png)
 
 ### 🧠 Mind Map
-![Mind Map](mind map of owasp.png)
+![Mind Map](Mind Map/mind map of owasp.png)
 
 ### 🖼️ Screenshots
 ![Screenshot 1](Screenshots/screenshot1.png)
