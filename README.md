@@ -59,7 +59,7 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ![Scope Justification](Test%20Case%20Report/test_scope_justifications.png)
 
 ### 📈 Metrics Chart
-![Metrics Chart](Test%20Metrics/test_matrics.png)
+![Metrics Chart](Test%20Metrics/test_metrics.png)
 
 
 
