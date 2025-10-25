@@ -61,12 +61,6 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ### 🧠 Mind Map
 ![Mind Map](Mind%20Map/mind_map_of_owasp.png)
 
-### 🖼️ Screenshots
-![Screenshot 1](Screenshots/screenshot1.png)  
-![Screenshot 2](Screenshots/screenshot2.png)  
-![Screenshot 3](Screenshots/screenshot3.png)  
-![Screenshot 4](Screenshots/screenshot4.png)
-
 > 📌 *All visuals are exported from Xmind and Excel for clarity and audit-readiness.*
 
 ## 🔍 Testing Focus
