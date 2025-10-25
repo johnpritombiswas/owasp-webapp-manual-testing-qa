@@ -34,8 +34,11 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 
 ## 🧠 Visual Highlights
 
-### 📌 Testing Scope & Justification
-![Scope Justification](Test%20Case%20Report/testing_scope_justifications.png)
+### 📋 Test Plan Overview
+![Test Plan](Test%20Plan/test_plan.png)
+
+### 🧠 Mind Map
+![Mind Map](Mind%20Map/mind_map_of_owasp.png)
 
 ### 🧾 Test Case Report
 ![Test Case Report](Test%20Case%20Report/test_case_report.png)
@@ -43,8 +46,8 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ### 🧪 Sample Test Case Matrix
 ![Test Case Matrix](Test%20Cases/test_case.png)
 
-### 📋 Test Plan Overview
-![Test Plan](Test%20Plan/test_plan.png)
+### 📌 Testing Scope & Justification
+![Scope Justification](Test%20Case%20Report/testing_scope_justifications.png)
 
 ### 🐞 Bug Report 1
 ![Bug Report 1](Bug%20Reports/bug_report_1.png)
@@ -58,8 +61,7 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ### 📈 Metrics Chart
 ![Metrics Chart](Test%20Metrics/test_matrix.png)
 
-### 🧠 Mind Map
-![Mind Map](Mind%20Map/mind_map_of_owasp.png)
+
 
 > 📌 *All visuals are exported from Xmind and Excel for clarity and audit-readiness.*
 
