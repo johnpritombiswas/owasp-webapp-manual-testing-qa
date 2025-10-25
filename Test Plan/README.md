@@ -1,8 +1,27 @@
-# Test Plan
+# 🧭 Test Plan
 
 This folder contains the formal test planning document for the OWASP registration module. It outlines the testing scope, objectives, strategy, environment, entry/exit criteria, and resource allocation. Authored by John Pritom Biswas for manual QA execution and audit readiness.
 
+---
 
+### 📋 Test Plan Overview
+
+![Test Plan](test_plan.png)
+
+---
+
+## 🎯 Purpose
+
+The test plan defines:
+
+- ✅ QA objectives and success criteria  
+- 🧪 Testing types: functional, negative, edge-case, UI validation  
+- 📦 Modules in scope: registration, login, input validation, navigation  
+- ⚠️ Risk-based prioritization aligned with OWASP guidelines  
+- 🧠 Manual testing strategy and execution workflow  
+- 🕒 Test schedule and environment setup 
+
+---
 
 ## 🔗 Related Artifacts
 
