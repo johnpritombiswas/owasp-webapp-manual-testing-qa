@@ -6,14 +6,13 @@ This folder contains structured documentation supporting the manual QA process f
 
 ## 📄 Contents
 
-| File | Description |
-|------|-------------|
+| Artifact | Description |
+|----------|-------------|
 | `Test Plan` | Defines the scope, objectives, strategy, and schedule of the testing effort. |
-| `Test Case Report` | Contains detailed test cases with expected outcomes, actual results, and status tracking. |
-| `Mind Map` | Visual representation of the testing strategy and coverage areas. |
-| `Screenshots` | Folder of annotated screenshots highlighting Bug and key UI validations. |
-| `Bug Reports` | Contains documented bugs with reproduction steps, severity, and screenshots. |
-| `Test Matrix` | Maps test cases against features/modules for coverage tracking. |
+| `Mind Map` | Visual breakdown of the registration flow, highlighting validation logic and edge-case triggers. |
+| `Test Case` | Individual manual test cases with preconditions, steps, expected vs actual results, and pass/fail status. |
+| `Test Case Report` | Consolidated spreadsheet of executed test cases with severity, QA comments, and scope rationale. |
+| `Test Matrix` | Maps test cases against features/modules for coverage tracking and traceability. |
 
 ---
 
