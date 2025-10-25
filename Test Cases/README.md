@@ -1,3 +1,25 @@
+# 📋 Test Case 
+This folder contains detailed test cases , Functional, security, and usability test cases
+
+---
+
+### 🧾 Test Case 
+![Test Case Matrix](test_case.png)
+
+---
+
+## 🧪 QA Coverage
+
+The test case report includes:
+
+- ✅ Unique Test IDs and titles  
+- 🧠 Preconditions and step-by-step execution  
+- 🎯 Expected vs actual results  
+- ❌ Pass/fail status with severity tags  
+- 📝 QA observations and notes
+
+---
+
 ## 🔗 Related Artifacts
 
 - [`Test Plan`](../Test%20Plan/README.md)  
@@ -20,5 +42,6 @@
 
 - [`Documentation`](../Documentation/README.md)  
   Full QA documentation suite including test plan, test case report, mind map, bug reports, screenshots, and consolidated test matrix.
+
 
 
