@@ -2,6 +2,11 @@
 
 Welcome! This repository showcases a full manual QA suite for OWASP-compliant web application registration flows — authored and documented by **John Pritom Biswas**. It includes test planning, execution documentation, bug reports, metrics, and usability validation — all structured for audit-readiness and professional presentation.
 
+## 🧰 Tools Used
+
+- 🧠 Xmind – for mind mapping registration flow and validation logic
+- 📊 Microsoft Excel – for test case matrices, bug tracking, and execution metrics
+
 ## 📁 Folder Overview
 
 - `Test Plan/` – QA strategy and scope
@@ -35,11 +40,7 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 - Audit-proof documentation
 - Author attribution and professional formatting
 
-## 🧰 Tools Used
-
-- 🧠 Xmind – for mind mapping registration flow and validation logic
-- 📊 Microsoft Excel – for test case matrices, bug tracking, and execution metrics
-
+  
 ## 📌 Author
 
 **John Pritom Biswas**  
