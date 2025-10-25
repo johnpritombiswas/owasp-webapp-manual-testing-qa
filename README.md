@@ -40,7 +40,7 @@ Welcome! This repository showcases a full manual QA suite for OWASP-compliant we
 ### 🧠 Mind Map
 ![Mind Map](Mind%20Map/mind_map_of_owasp.png)
 
-### 🧪 Test Case Matrix
+### 🧾 Test Case 
 ![Test Case Matrix](Test%20Cases/test_case.png)
 
 ### 🧾 Test Case Report
